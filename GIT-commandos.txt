@@ -1,0 +1,501 @@
+  100  git status
+  101  cd ..
+  102  mkdir MyGitKraken
+  103  cd MyGitKraken/
+  104  git init
+  105  copy ../repo1/*.* ../repo2IB/MyFirstNovel
+  106  xcopy ../repo1/*.* ../repo2IB/MyFirstNovel
+  107  ls -a
+  108  git add .
+  109  git status
+  110  git commit -m "all mijn GitHub photos"
+  111  git status
+  112  git log --oneline
+  113  ls -a
+  114  cd ..
+  115  ls -a
+  116  cd ..
+  117  ls -a
+  118  pwd
+  119  cd Repo1
+  120  ls -a
+  121  cd ..
+  122  cd Repo2IB/
+  123  la -a
+  124  ls -a
+  125  cd MyPhotos/
+  126  ls -a
+  127  git init
+  128  git status
+  129  git status
+  130  git add .
+  131  git status
+  132  cd ..
+  133  cd ..
+  134  cd Repo1/
+  135  ls -a
+  136  cd MyGitKraken/
+  137  ls -a
+  138  git status
+  139  git restore .
+  140  git
+  141  git restore ../Repo2IB/MyPhotos/. ../Repo1/MyGitKraken/
+  142  git status
+  143  ls n-a
+  144  ls -a
+  145  git ststus /Repo2IB/MyPhotos/
+  146  git status /Repo2IB/MyPhotos/
+  147  git status ../MyPhotos/
+  148  pwd
+  149  cd ..
+  150  cd ..
+  151  git status ../MyPhotos/
+  152  cd /Repo2IB/MyPhotos/
+  153  pwd
+  154  pwd
+  155  ls -a
+  156  cd Repo2IB/MyPhotos/
+  157  git status
+  158  git log
+  159  git log --oneline
+  160  cd ..
+  161  cd ..
+  162  ls
+  163  pwd
+  164  cd Repo1
+  165  ls
+  166  git status
+  167  git add chapter1.txt chapter2.txt
+  168  git status
+  169  cd MyFirstNovel/
+  170  git add chapter1.txt chapter2.txt
+  171  git status
+  172  git commit --amend
+  173  git status
+  174  git commit --amend
+  175  git add README.md
+  176  git commit --amend
+  177  git status
+  178  git commit
+  179  git add outline.txt
+  180  git status
+  181  git commit --amend
+  182  git log --oneline
+  183  git commit --amend
+  184  git log --oneline
+  185  git log
+  186  git clone https://github.com/FelixvL/demoolcsamenwerken2212.git
+  187  cd demoolcsamenwerken2212/
+  188  ls -a
+  189  git checkout -b iboher
+  190  ls -a
+  191  touch MyNewPY.txt
+  192  ls -a
+  193  git status
+  194  git status
+  195  git status
+  196  git status
+  197  git add .
+  198  git status
+  199  git commit
+  200  git commit -m "de eerste commit"
+  201  git status
+  202  git commit
+  203  git push
+  204  git push -u origin iboher
+  205  git push -u origin iboher
+  206  Untracked files:
+  207    (use "git add <file>..." to include in what will be committed)
+  208          MyNewPY.py
+  209  git status
+  210  git checkout master
+  211  git checkout iboher
+  212  git checkout master
+  213  git pull
+  214  git checkout iboher
+  215  git merge master
+  216  git push
+  217  git status
+  218  git checkout iboher
+  219  git checkout master
+  220  git checkout iboher
+  221  hystory
+  222  git hystory
+  223  git --help
+  224  history
+  225  git branch
+  226  git checkout master
+  227  ls -a
+  228  git branch
+  229  git branch new-iboher
+  230  git branch
+  231  git switch new-iboher
+  232  get status
+  233  git status
+  234  touch test.py
+  235  touch test2.py
+  236  git switch iboher
+  237  touch testiboher.txt
+  238  git status
+  239  p-wd
+  240  pwd
+  241  ls
+  242  git switch new-iboher
+  243  ls
+  244  git checkout iboher
+  245  ls
+  246  touch nogeentestfile.txt
+  247  ls
+  248  git checkout new-iboher
+  249  ls
+  250  git status
+  251  pwd
+  252  ls
+  253  cd Repo2ib
+  254  ls
+  255  git status
+  256  git log
+  257  cd . .
+  258  cd ..
+  259  pwd
+  260  git branch "new iboher brach 12020"
+  261  git branch New iboher brach 12020
+  262  git init
+  263  git branch New iboher brach 12020
+  264  git branch New-iboher-brach-12020
+  265  ls -a
+  266  git commit -a -m "commited"
+  267  git status
+  268  pwd
+  269  ls
+  270  cd Repo2IB/
+  271  git status
+  272  mkdir newbranch
+  273  cd newbranch/
+  274  git init
+  275  git branch newib
+  276  touch test1.txt
+  277  touch test2.txt
+  278  ls
+  279  touch test3.txt
+  280  git status
+  281  git add.
+  282  git status
+  283  git add .
+  284  git status
+  285  git commit -m test-commit
+  286  git status
+  287  git log
+  288  git branch Georges
+  289  ls
+  290  cd ..
+  291  ls -a
+  292  git ;og
+  293  git log
+  294  git switch Georges
+  295  ls
+  296  cd newbranch/
+  297  ls
+  298  git switch georges
+  299  git log
+  300  d test-commit
+  301  vi test-commit
+  302  ls
+  303  git status
+  304  git add .
+  305  git status
+  306  git commit
+  307  git status
+  308  git switch master
+  309  git branch newGerorge
+  310  git switch newGerorge
+  311  git status
+  312  git log
+  313  pwd
+  314  cd ..
+  315  git switch master
+  316  ls
+  317  mkdir newbranch2
+  318  ls
+  319  cd newbranch
+  320  cd ..
+  321  cd newbranch2
+  322  ls
+  323  git init
+  324  touch newbestand1.txt
+  325  ls
+  326  git branch NEWBRANCH
+  327  git switch newbGeorge
+  328  git switch newGeorge
+  329  cd newbranch
+  330  cd ..
+  331  ls
+  332  git swich newGeorge
+  333  git switch newGeorge
+  334  git switch master
+  335  cd newbranch2
+  336  git status
+  337  git branch innewbranch2
+  338  git checkout newGeorge
+  339  cd ..
+  340  cd ..
+  341  ls
+  342  pwd
+  343  ls -a
+  344  cd Repo1
+  345  la -a
+  346  ls -a
+  347  git status
+  348  git add .
+  349  git status
+  350  git log
+  351  git checkout "all-my-files"
+  352  git checlout newGeorge
+  353  ls
+  354  git status
+  355  git commit ällmyfiles
+  356  git commit
+  357  git status
+  358  git checkout allmyfiles
+  359  git push -u origin iboher
+  360  git checkout -b iboher
+  361  git checkout -b newGeorge
+  362  ls
+  363  git push
+  364  git push -u origin iboher
+  365  git push -u origin iboher-git
+  366  git push -u iboher-git
+  367  git push --set-upstream iboher-git newGeorge
+  368  git branch
+  369  cd ..
+  370  git branch
+  371  pwd
+  372  ls
+  373  cd Repo1
+  374  git branch
+  375  cd ..
+  376  cd Repo2IB/
+  377  git branch
+  378  git init Repo3IB
+  379  ls
+  380  rm -f Repo3IB/
+  381  rm -rf Repo3IB/
+  382  ls
+  383  git init newRepo
+  384  ls newRepo/
+  385  ls
+  386  git branch newbranch
+  387  git checkout master
+  388  git branch
+  389  git switch -c newbranch
+  390  git branch
+  391  git switch master
+  392  git branch
+  393  cd repo1
+  394  cd ,,
+  395  cd ..
+  396  pwd
+  397  cd repo1
+  398  git branch
+  399  git status
+  400  touch file1/txt
+  401  touch file1.txt
+  402  touch file2.txt
+  403  touch file3.txt
+  404  git status
+  405  gir add .
+  406  git add .
+  407  git status
+  408  git commit -m "MyNewFilesOp newGeorge"
+  409  git status
+  410  git switch newbranch
+  411  git checkout newbranch
+  412  cd ..
+  413  cd repo2
+  414  pwd
+  415  cd repo2
+  416  cd Repo2IB/
+  417  git branch
+  418  git status
+  419  pwd
+  420  ls -a
+  421  git status
+  422  git commit -m "rareFiles"
+  423  git branch
+  424  git branch --list
+  425  cd
+  426  cd ..
+  427  ls
+  428  pwd
+  429  cd User/
+  430  pwd
+  431  ls -a
+  432  cd Repo2IB/
+  433  cd ..
+  434  cd repo1
+  435  get branch --list
+  436  git branch --list
+  437  git branch -d
+  438  git branch -d iboher
+  439  git branch --list
+  440  git branch -d master
+  441  git branch --list
+  442  git branch -d newGeorge
+  443  git checkout newGeorge
+  444  git branch --list
+  445  git branch -d -f newGeorge
+  446  cd ..
+  447  pwd
+  448  get branch --list
+  449  git branch --list
+  450  git branch -c master
+  451  pwd
+  452  ls -a
+  453  mkdir newDirectoryFornewbranch
+  454  git switch master
+  455  git init
+  456  git status
+  457  git add .
+  458  git status
+  459  git commit -m "addAllFilesToTheNewBranch
+q
+  460  git commit -m "addAllFilesToTheNewBranch"
+  461  git status
+  462  cd Repo1
+  463  git branch
+  464  git branch -c master
+  465  git branch
+  466  git switch master
+  467  git branch -d newGeorge
+  468  git status
+  469  git branch --list
+  470  git log
+  471  cat .git/HEAD
+  472  cd ..
+  473  cd repo2
+  474  cd Repo2IB/
+  475  cat .git/HEAD
+  476  ls -a
+  477  git log
+  478  git status
+  479  cd ..
+  480  cd Repo1/
+  481  git status
+  482  git open
+  483  .git open
+  484  cd ..
+  485  cd Repo2IB/
+  486  git status
+  487  ls -a
+  488  git branch --list
+  489  git status
+  490  git status
+  491  git push -u origin main
+  492  git remote add origin https://github.com/iboher-git/myRepoIB1.git
+  493  git remote add origin https://github.com/iboher-git/
+  494  git remote add origin https://github.com/iboher-git/myRepoIB1.git
+  495  git branch -M main
+  496  git push -u origin main
+  497  echo "# myRepoIB1" >> README.md
+  498  git init
+  499  git add README.md
+  500  git commit -m "first commit
+  501  git commit -m "first commit"
+  502  git branch -M main
+  503  git remote add origin https://github.com/iboher-git/myRepoIB1.git
+  504  git push -u origin main
+  505  git remote add origin https://github.com/iboher-git/myRepoIB1.git
+  506  pwd
+  507  cd ..
+  508  mkdir Patronus
+  509  cd Patronus/
+  510  git init
+  511  touch patronus.txt
+  512  git add .
+  513  git commit  -m "add empty patronus file"
+  514  git branch -c harry
+  515  git branch -c snape
+  516  git switch harry
+  517  git switch snappe
+  518  git switch snape pe
+  519  git switch snape
+  520  git switch harry
+  521  code .
+  522  git status
+  523  git add .
+  524  git commit -m "add snape's doe patronus"
+  525  git commit -m "add harry's stag patronus"
+  526  git branch snape
+  527  git switch snape
+  528  git log
+  529  git checkout snape
+  530  git status
+  531  git add .
+  532  git commit -m "add snape's doe patronus"
+  533  git branch lily
+  534  git switch lily
+  535  ls
+  536  git add .
+  537  git status
+  538  git log
+  539  git status
+  540  git status
+  541  git add .
+  542  git commit -m "add lily's doe patronus"
+  543  git branch --list
+  544  git branch -m snape
+  545  git branch -d snape
+  546  git branch -m snape
+  547  git branch --list
+  548  git branch -d snape
+  549  git branch -D snape
+  550  git branch --list
+  551  git checkout master
+  552  git merge harry
+  553  git branch list
+  554  git checkout lily
+  555  git branch --list
+  556   git branch -D list
+  557  git branch --list
+  558  git checkout master
+  559  git branch --list
+  560  git merge harry
+  561  git merge lily
+  562  git branch --list
+  563  git .git/HEAD
+  564  cat .git/HEAD
+  565  git merge lily
+  566  git log
+  567  cat .git/HEAD
+  568  git checkout master
+  569  cat .git/HEAD
+  570  git status
+  571  git checkout lily
+  572  git status
+  573  cat .git/HEAD
+  574  git checkout master
+  575  git log
+  576  git status
+  577  git checkout master
+  578  git status
+  579  git checkout lily
+  580  git status
+  581  git add .
+  582  git status
+  583  git merge lily
+  584  git merge harry
+  585  git log
+  586  history
+  587  git remote add origin https://github.com/iboher-git/myRepoIB1.git
+  588  git push
+  589  git push --set-upstream origin harry
+  590  git switch lily
+  591  git push --set-upstream origin lily
+  592  git switch master
+  593  git push --set-upstream origin master
+  594  git status
+  595  git add
+  596  git add .
+  597  git status
+  598  git log
+  599  history
